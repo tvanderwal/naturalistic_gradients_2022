@@ -1,3 +1,4 @@
+% shortcut to load parcellation and template brain for plotting/analysis
 if ~exist('varargin','var')
     varargin = {};
 end
